@@ -7,8 +7,9 @@ public class SoftwareTesting {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Add a = new Add();
-		sum = a.add(5, 3);
-		system.out.println(sum);
+		sum = a.add(10, 15);
+		System.out.println(sum);
+		System.out.println("Run Successfully");
 		
 	}
 
